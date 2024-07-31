@@ -1,4 +1,4 @@
-module git.ingcreations.com/ingcreations-golang/mongokits
+module github.com/penjon/jomongokits
 
 go 1.19
 
